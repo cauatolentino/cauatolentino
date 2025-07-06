@@ -88,9 +88,9 @@ Sou Cauã Tolentino, estudante de Engenharia da Computação e estagiário em QA
   <img height="180em" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-          
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauatolentino/cauatolentino/output/github-contribution-grid-snake-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauatolentino/cauatolentino/output/github-contribution-grid-snake.svg">
+	<img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/cauatolentino/cauatolentino/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!--
-![Caua Tolentino GitHub stats](https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&theme=dark)
--->
