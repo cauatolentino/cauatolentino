@@ -83,8 +83,7 @@ Sou Cauã Tolentino, estudante de Engenharia da Computação e estagiário em QA
 <div>
   <h3>📊 Estatísticas</h3>
   <a href="https://github.com/cauatolentino/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark&count_private=true"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark&count_private=true"/><img height="180em" align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
