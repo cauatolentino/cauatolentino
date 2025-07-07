@@ -80,14 +80,17 @@ Sou Cauã Tolentino, estudante de Engenharia da Computação e estagiário em QA
   />
 </div><br><br>
 
-
 <div>
   <h3>📊 Estatísticas</h3>
   <a href="https://github.com/cauatolentino/">
-  <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 
+
+---
+<h3>🎯 Contribuições</h3>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cauatolentino/cauatolentino/output/github-contribution-grid-snake-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cauatolentino/cauatolentino/output/github-contribution-grid-snake.svg">
