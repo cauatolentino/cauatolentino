@@ -1,7 +1,7 @@
 # 🧑🏾‍💻 Cauã Tolentino
 **`Aspirante a Desenvolvedor FullStack`**
 
-Sou Cauã Tolentino, estudante de Engenharia da Computação e estagiário em QA. Apaixonado por tecnologia desde a infância, hoje tenho foco em Desenvolvimento FullStack, com experiência em Java, Python, C++, SQL e crescente interesse por Inteligência Artificial. Valorizo a lógica, a resolução de problemas e o aprendizado contínuo. Busco transformar conhecimento técnico em soluções reais, sempre com curiosidade, comprometimento e vontade de evoluir.
+Sou Cauã Tolentino, estudante de Engenharia da Computação e estagiário em QA. Apaixonado por tecnologia desde a infância, hoje tenho foco em Desenvolvimento FullStack, com experiência em Java, Python, C++, SQL e crescente interesse por Inteligência Artificial. Valorizo a lógica, a resolução de problemas e o aprendizado contínuo. Busco transformar conhecimento técnico em soluções reais, sempre com curiosidade, comprometimento e vontade de evoluir
 
 <div>
   <a href="https://www.youtube.com/@cauatolentinodev" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" align="center" title="Se inscreva no canal" target="_blank"></a>
