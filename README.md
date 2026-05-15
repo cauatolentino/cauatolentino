@@ -82,13 +82,6 @@ Atualmente busco evoluir cada vez mais como desenvolvedor, aprofundando meus con
   />
 </div><br><br>
 
-<div>
-  <h3>📊 Estatísticas</h3>
-  <a href="https://github.com/cauatolentino/">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=cauatolentino&show_icons=true&theme=dark&count_private=true"/><img height="180em" align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauatolentino&layout=compact&langs_count=16&theme=dark"/>
-  </a>
-</div>
-
 
 ---
 <h3>🎯 Contribuições</h3>
