@@ -23,7 +23,7 @@ Fora do trabalho, aprendo construindo projetos próprios que variam de linguagem
 
 **Na faculdade e nos projetos pessoais**
 
-<img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,nextjs,nodejs,vue,tailwind,postgres,rabbitmq,githubactions" alt="Java, Spring Boot, Python, TypeScript, React, Next.js, Node.js, Vue, Tailwind CSS, PostgreSQL, RabbitMQ" />
+<img src="https://skillicons.dev/icons?i=java,spring,py,ts,react,nextjs,nodejs,vue,tailwind,postgres,rabbitmq" alt="Java, Spring Boot, Python, TypeScript, React, Next.js, Node.js, Vue, Tailwind CSS, PostgreSQL, RabbitMQ" />
 
 ---
 
